@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Denim!
 - 📖 Final year BTech-ECE at SRM University.
 - 👀 Super interested in IoT and Embedded Systems.
+- 🧰 Love tinkering with Arduino and Raspberry Pi.
 - 🌱 On the process of mastering Machine Learning and Deep Learning.
 - 💞️ Interested in working on projects related to : IoT and Embedded Systems.
 - 📫 To reach out to me, just drop a mail at : denimthangjam@gmail.com
