@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Denim!
+- 📖 Final year BTech-ECE at SRM University.
 - 👀 Super interested in IoT and Embedded Systems.
 - 🌱 On the process of mastering Machine Learning and Deep Learning.
 - 💞️ Interested in working on projects related to : IoT and Embedded Systems.
